@@ -3,7 +3,8 @@
 - 🌱 I’m a Product Management [@Orchestry](https://www.orchestry.com/)
 - 💞️ I’m looking to collaborate on anything interesting in the M365 space
 - 📫 How to reach me 
-    twitter @ryan365apps https://twitter.com/Ryan365Apps or [email: Ryan@365apps.io](mailto:Ryan@365apps.io)
+[bluesky: profile/365apps.io ](https://bsky.app/profile/365apps.io)
+    or [email: Ryan@365apps.io](mailto:Ryan@365apps.io)
 
 <!---
 Ryan365Apps/Ryan365Apps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
